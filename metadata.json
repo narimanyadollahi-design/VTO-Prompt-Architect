@@ -1,0 +1,5 @@
+{
+  "name": "VTO Prompt Architect",
+  "description": "An advanced AI tool that analyzes reference images (Model, Garment, Footwear, Background) to generate precise, photorealistic image generation prompts for Virtual Try-On workflows.",
+  "requestFramePermissions": []
+}
